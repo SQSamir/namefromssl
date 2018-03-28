@@ -1,7 +1,7 @@
 İnformation gatering tool
 
-[i@localhost]$ ./extractdomain.py fb.com 443
-*.facebook.com
+[i@localhost]$ ./extractdomain.py fb.com 443 <br>
+*.facebook.com 
 *.xx.fbcdn.net
 *.fbsbx.com
 *.xz.fbcdn.net
